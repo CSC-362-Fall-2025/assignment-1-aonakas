@@ -4,6 +4,9 @@
 
 int main(int argc, char* argv[]){
   //Place your solution code here
+(void)argc;
+(void)argv;
+  
 int n = 0;
 int *arr = NULL;
 
